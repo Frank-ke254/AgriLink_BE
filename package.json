@@ -1,7 +1,7 @@
 {
   "name": "agrilink-backend",
   "version": "1.0.0",
-  "description": "AgriLink demo API showcasing Express routes, security, rate limiting, pagination, query optimization, and caching.",
+  "description": "AgriLink backend showcasing Express routes, security, rate limiting, pagination, query optimization, and caching.",
   "main": "src/server.js",
   "type": "module",
   "scripts": {
