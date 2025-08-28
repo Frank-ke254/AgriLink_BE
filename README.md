@@ -1,4 +1,4 @@
-# AgriLink Backend (Demo API)
+# AgriLink Backend 
 
 A complete Express.js project that ties together:
 - Routes & methods (GET, POST, PATCH, DELETE)
@@ -8,22 +8,6 @@ A complete Express.js project that ties together:
 - Caching (node-cache, route-level & key-based)
 
 > This version uses in-memory data to keep things simple and self-contained.
-
-## Quick start
-
-```bash
-# 1) Extract the zip
-cd agrilink-backend
-
-# 2) Create your .env from the example
-cp .env.example .env
-
-# 3) Install dependencies
-npm install
-
-# 4) Run the server (http://localhost:3500)
-npm run dev
-```
 
 ## Endpoints (examples)
 
